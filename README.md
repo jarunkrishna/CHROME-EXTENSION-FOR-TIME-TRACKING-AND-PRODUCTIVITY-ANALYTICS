@@ -1,4 +1,5 @@
-## PRODUCTIVITY-TRACKER
+## CHROME EXTENSON FOR TIME TRACKING AND PRODUCTIVITY ANALYTICS
+
 *COMPANY*   : CODETECH IT SOLUTIONS
 
 *NAME*      : ARUN KRISHNA J 
@@ -9,7 +10,7 @@
 
 *DURATION*  : 4 WEEKS
 
-*METOR*     : NEELA SANTHOSH KUMAR
+*MENTOR*     : NEELA SANTHOSH KUMAR
 
 ### DESCRIPTION 
 A Chrome extension built with **MongoDB, Express, React (Vite),** and **Node.js** to enhance productivity. It tracks time spent on websites, blocks distractions, and generates daily productivity reports. The backend handles user preferences, data syncing, and report generation. 🚀
